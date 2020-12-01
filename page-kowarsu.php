@@ -16,13 +16,14 @@ the_post();
 <section class="single__merchant__mv">
 <div id="main_mv" class="slick">
 <div class="">
-  <img src="<?php echo $wp_url; ?>/dist/images/main_mv_1.jpg" alt="<?php the_title(); ?>の写真1">
+<img src="<?php echo $wp_url; ?>/dist/images/main_mv_1.jpg" alt="<?php the_title(); ?>の写真1">
 </div>
 <div class="">
-  <img src="<?php echo $wp_url; ?>/dist/images/main_mv_2.jpg" alt="<?php the_title(); ?>の写真2">
+<img src="<?php echo $wp_url; ?>/dist/images/main_mv_2.jpg" alt="<?php the_title(); ?>の写真2">
 </div>
 <div class="">
-  <img src="<?php echo $wp_url; ?>/dist/images/main_mv_3.jpg" alt="<?php the_title(); ?>の写真3">
+<img src="<?php echo $wp_url; ?>/dist/images/main_mv_3.jpg" alt="<?php the_title(); ?>の写真3">
+</div>
 </div>
 </section>
 
@@ -63,18 +64,18 @@ the_post();
 <p class="mt-3 mb-0">3,000件を超える圧倒的な実績の多さで信頼感抜群！実質”業界最安値”で高品質な内装解体を行う業者です。処分に困る解体の際に出る不用品の買取もしてくれるので、その分コストを抑えて内装解体が可能！即日対応可能で仕事もスピーディーなので、お急ぎの場合も安心です。</p>
 <p class="mt-3 mb-0 font-weight-bold">料金　12,000円〜</p>
 <div class="">
-  <div class="star text-center">
-    <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><span class="ml-2">4.9</span><br>
-    <a href="#menu2">口コミ 35件</a>
-  </div>
+<div class="star text-center">
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><span class="ml-2">4.9</span><br>
+<a href="#menu2">口コミ 35件</a>
+</div>
 </div>
 </div>
 <!-- single__merchant__info -->
 <div class="mt-5">
 <div class="merchant__inner__cta">
-  <div class="d-block text-center p-0 mb-1">
-  <img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign@2x.png 2x">
-  </div>
+<div class="d-block text-center p-0 mb-1">
+<img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign@2x.png 2x">
+</div>
 <a class="d-block text-center p-0 mb-2" href="tel:0120-133-064">
 <img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc@2x.png 2x">
 </a>
@@ -377,9 +378,9 @@ the_post();
 
 <div class="mt-5">
 <div class="merchant__inner__cta">
-  <div class="d-block text-center p-0 mb-1">
-  <img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign@2x.png 2x">
-  </div>
+<div class="d-block text-center p-0 mb-1">
+<img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign@2x.png 2x">
+</div>
 <a class="d-block text-center p-0 mb-2" href="tel:0120-133-064">
 <img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc@2x.png 2x">
 </a>
@@ -640,92 +641,92 @@ the_post();
 <!-- #menu3 -->
 
 <div class="flow origin__inner">
-  <h3><span>ご利用の流れ</span></h3>
-  <div class="origin__inner__wrap">
-    <div class="origin__inner__wrap-item">
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>1</div>
-        <div class="step-text font-weight-bold">お問い合わせ</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>2</div>
-        <div class="step-text font-weight-bold">現地調査</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>3</div>
-        <div class="step-text font-weight-bold">御見積書送付</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>4</div>
-        <div class="step-text font-weight-bold">契約書・着工日の決定</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>5</div>
-        <div class="step-text font-weight-bold">近隣挨拶</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>6</div>
-        <div class="step-text font-weight-bold">着工</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>7</div>
-        <div class="step-text font-weight-bold">工事完了</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>8</div>
-        <div class="step-text font-weight-bold">工事完了のご連絡</div>
-      </div>
-      <div class="step border-bottom">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>9</div>
-        <div class="step-text font-weight-bold">工事完了検査</div>
-      </div>
-      <div class="step align-items-center">
-        <div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>10</div>
-        <div class="step-text font-weight-bold">請求書の送付</div>
-      </div>
-    </div>
-  </div>
+<h3><span>ご利用の流れ</span></h3>
+<div class="origin__inner__wrap">
+<div class="origin__inner__wrap-item">
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>1</div>
+<div class="step-text font-weight-bold">お問い合わせ</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>2</div>
+<div class="step-text font-weight-bold">現地調査</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>3</div>
+<div class="step-text font-weight-bold">御見積書送付</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>4</div>
+<div class="step-text font-weight-bold">契約書・着工日の決定</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>5</div>
+<div class="step-text font-weight-bold">近隣挨拶</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>6</div>
+<div class="step-text font-weight-bold">着工</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>7</div>
+<div class="step-text font-weight-bold">工事完了</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>8</div>
+<div class="step-text font-weight-bold">工事完了のご連絡</div>
+</div>
+<div class="step border-bottom">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>9</div>
+<div class="step-text font-weight-bold">工事完了検査</div>
+</div>
+<div class="step align-items-center">
+<div class="step-num bg-primary text-white text-center font-weight-bold py-2 border-white border-bottom">step<br>10</div>
+<div class="step-text font-weight-bold">請求書の送付</div>
+</div>
+</div>
+</div>
 </div>
 <!-- 流れ -->
 
 <div class="flow origin__inner">
-  <h3><span>よくあるご質問</span></h3>
-  <div class="origin__inner__wrap">
-    <div class="origin__inner__wrap-item">
-      <table class="table mb-0">
-      <tr>
-      <th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 急ぎなのですが、すぐに見積りをしてもらえますか？</th>
-      </tr>
-      <tr>
-      <td class="w-100"><span class="text-primary mr-2">A</span>現場スタッフの空き状況を確認し、ご連絡いたします。<br>空き状況によっては、行ける場合と行けない場合がございますので、予めご了承ください。</td>
-      </tr>
-      <tr>
-      <th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 急な工事でも大丈夫ですか？</th>
-      </tr>
-      <tr>
-      <td class="w-100"><span class="text-primary mr-2">A</span>はい、急な工事でも対応可能です。</td>
-      </tr>
-      <tr>
-      <th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 見積り・作業日に立会いは必要ですか？</th>
-      </tr>
-      <tr>
-      <td class="w-100"><span class="text-primary mr-2">A</span>はい、基本的にはお立会いをお願いしております。お会いして直接お話をさせていただき、お客様自身にもご安心いただきたいという思いもあります。</td>
-      </tr>
-      <tr>
-      <th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 夜間の工事でも大丈夫ですか？</th>
-      </tr>
-      <tr>
-      <td class="w-100"><span class="text-primary mr-2">A</span>はい、夜間の工事でも対応可能です。</td>
-      </tr>
-      <tr>
-      <th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 不法投棄などが心配なのですが…？</th>
-      </tr>
-      <tr>
-      <td class="w-100"><span class="text-primary mr-2">A</span>産業廃棄物処理法により、不法投棄が摘発された場合、施主様まで責任を追及される事になります。弊社では様々な許可を取っており、それぞれの中間処理施設とのルートも確立している為、安心してお任せ下さいませ。</td>
-      </tr>
-      </table>
-    </div>
-  </div>
+<h3><span>よくあるご質問</span></h3>
+<div class="origin__inner__wrap">
+<div class="origin__inner__wrap-item">
+<table class="table mb-0">
+<tr>
+<th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 急ぎなのですが、すぐに見積りをしてもらえますか？</th>
+</tr>
+<tr>
+<td class="w-100"><span class="text-primary mr-2">A</span>現場スタッフの空き状況を確認し、ご連絡いたします。<br>空き状況によっては、行ける場合と行けない場合がございますので、予めご了承ください。</td>
+</tr>
+<tr>
+<th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 急な工事でも大丈夫ですか？</th>
+</tr>
+<tr>
+<td class="w-100"><span class="text-primary mr-2">A</span>はい、急な工事でも対応可能です。</td>
+</tr>
+<tr>
+<th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 見積り・作業日に立会いは必要ですか？</th>
+</tr>
+<tr>
+<td class="w-100"><span class="text-primary mr-2">A</span>はい、基本的にはお立会いをお願いしております。お会いして直接お話をさせていただき、お客様自身にもご安心いただきたいという思いもあります。</td>
+</tr>
+<tr>
+<th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 夜間の工事でも大丈夫ですか？</th>
+</tr>
+<tr>
+<td class="w-100"><span class="text-primary mr-2">A</span>はい、夜間の工事でも対応可能です。</td>
+</tr>
+<tr>
+<th class="w-100 bg-secondary font-weight-normal"><span class="text-primary mr-2">Q</span> 不法投棄などが心配なのですが…？</th>
+</tr>
+<tr>
+<td class="w-100"><span class="text-primary mr-2">A</span>産業廃棄物処理法により、不法投棄が摘発された場合、施主様まで責任を追及される事になります。弊社では様々な許可を取っており、それぞれの中間処理施設とのルートも確立している為、安心してお任せ下さいませ。</td>
+</tr>
+</table>
+</div>
+</div>
 </div>
 <!-- よくあるご質問 -->
 
@@ -840,9 +841,9 @@ the_post();
 
 <div class="mt-5">
 <div class="merchant__inner__cta">
-  <div class="d-block text-center p-0 mb-1">
-  <img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign@2x.png 2x">
-  </div>
+<div class="d-block text-center p-0 mb-1">
+<img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_campaign@2x.png 2x">
+</div>
 <a class="d-block text-center p-0 mb-2" href="tel:0120-133-064">
 <img class="img-switch" src="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc.png" alt="" srcset="<?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc.png 1x, <?php echo $wp_url; ?>/dist/images/btn_cta_tel_pc@2x.png 2x">
 </a>
@@ -853,14 +854,14 @@ the_post();
 </div>
 
 <div class="d-block text-center my-5">
-  <a class="border-primary border-bottom" href="<?php echo $home; ?>">業者一覧に戻る</a>
+<a class="border-primary border-bottom" href="<?php echo $home; ?>">業者一覧に戻る</a>
 </div>
 
 <!-- single -->
 </div>
+</div>
 <div class="side">
 <?php get_sidebar(); ?>
-</div>
 </div>
 </div>
 
@@ -869,54 +870,54 @@ the_post();
 let ctx = document.getElementById("chart");
 let times = 0;
 if (window.innerWidth > 768) {
-  times = 0.1;
+times = 0.1;
 } else {
-  times = 0.05;
+times = 0.05;
 }
 ctx.width = window.innerWidth * 0.1;
 ctx.height = window.innerHeight * times;
 let radar_chart = new Chart(ctx, {
-  type: "radar",
-  data: {
-    labels: [
-      "料金",
-      "実績",
-      "対応",
-      "不用品処分",
-      "安全への配慮",
-    ],
-    datasets: [{
-      label: "評価",
-      data: [
-        95,
-        99,
-        100,
-        100,
-        98
-      ],
-      borderWidth: 1,
-      borderColor: 'rgb(232, 71, 0)',
-      pointBackgroundColor: 'rgb(232, 71, 0)',
-      backgroundColor: 'rgba(232, 71, 0, 0.6)'
-    }],
-  },
-  options: {
-      title: {
-        display: false,
-      },
-      legend: {
-        display: false
-      },
-      scale: {
-        ticks: {
-          beginAtZero: true,
-          precision: 5,
-          min: 50,
-          max: 100,
-          stepSize: 10,
-        }
-      }
-    }
+type: "radar",
+data: {
+labels: [
+"料金",
+"実績",
+"対応",
+"不用品処分",
+"安全への配慮",
+],
+datasets: [{
+label: "評価",
+data: [
+95,
+99,
+100,
+100,
+98
+],
+borderWidth: 1,
+borderColor: 'rgb(232, 71, 0)',
+pointBackgroundColor: 'rgb(232, 71, 0)',
+backgroundColor: 'rgba(232, 71, 0, 0.6)'
+}],
+},
+options: {
+title: {
+display: false,
+},
+legend: {
+display: false
+},
+scale: {
+ticks: {
+beginAtZero: true,
+precision: 5,
+min: 50,
+max: 100,
+stepSize: 10,
+}
+}
+}
 });
 </script>
 
