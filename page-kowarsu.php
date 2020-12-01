@@ -33,6 +33,7 @@ the_post();
 <div class="single__merchant__info">
 <div class="single__merchant__info-wrap">
 <div class="single__merchant__info-txt w-100">
+<p class="tag text-white bg-primary">当サイトおすすめ業者</p>
 <h3><?php the_title(); ?></h3>
 <div class="mb-3 row mx-0">
 <div class="col-md">
@@ -49,7 +50,7 @@ the_post();
 <tbody>
 <tr>
 <th>対応エリア</th>
-<td>大阪府全域、兵庫県全域、京都府全域、奈良県全域、東京都全域</td>
+<td>大阪府、兵庫県、京都府、奈良県、東京都</td>
 </tr>
 <tr>
 <th>建物の種類</th>
@@ -237,7 +238,7 @@ the_post();
 <p class="font-weight-bold mb-2">料金がわかりやすかった</p>
 <p>坪単価が書いていたのでおおまかな費用を把握できた。見積もりも見やすかった。</p>
 </div>
-<!-- .review__inner -->じれ
+<!-- .review__inner -->
 <div class="review__inner">
 <p class="small mb-2"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><span class="ml-1">4.0</span></p>
 <p class="font-weight-bold mb-2">工事完了までが早かった</p>

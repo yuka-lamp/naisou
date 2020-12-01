@@ -12466,9 +12466,7 @@ table {
       margin-left: -15px; } }
 
 .single__merchant__info {
-  box-sizing: border-box;
-  padding: 1.5rem;
-  background-color: #fef4e5; }
+  box-sizing: border-box; }
   .single__merchant__info-wrap {
     display: flex;
     justify-content: space-between;
@@ -12491,7 +12489,7 @@ table {
     .single__merchant__info-txt h3 {
       box-sizing: border-box;
       padding-left: 1rem;
-      border-left: solid 5px #333333;
+      border-left: solid 5px #e84700;
       font-weight: bold;
       font-size: 1.25rem;
       margin-bottom: 1rem; }
