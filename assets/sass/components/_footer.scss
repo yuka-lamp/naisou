@@ -1,0 +1,42 @@
+.footer {
+  border-top: solid 1px $light;
+  &__links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    &-link {
+      a {
+        display: inline-block;
+        vertical-align: middle;
+        font-size: $font-size-sm;
+        color: $dark;
+        margin-right: 1rem;
+        line-height: 1;
+      }
+    }
+    &-copy {
+      p {
+        line-height: 1;
+        margin: 0;
+        font-size: 12px;
+      }
+    }
+  }
+}
+
+.fix-btn {
+  z-index: 1;
+  position: fixed;
+  display: block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: $white;
+  text-align: center;
+  &.tel {
+    background-color: $danger;
+  }
+}

@@ -1,0 +1,138 @@
+.origin {
+  &__inner {
+    position: relative;
+    margin-bottom: 2rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    & > h3 {
+      margin: 0;
+
+      span {
+        display: inline-block;
+        vertical-align: bottom;
+        box-sizing: border-box;
+        background-color: $warning;
+        color: $white;
+        font-size: $font-size-sm;
+        font-weight: bold;
+        padding: 0.5em 1em;
+        border-top-left-radius: 0.25rem;
+        border-top-right-radius: 0.25rem;
+      }
+    }
+
+    &__wrap {
+      box-sizing: border-box;
+      border: solid 2px $light;
+      padding: 1.5rem;
+      @include media-breakpoint-down(md) {
+        padding: 1.5rem 1rem;
+      }
+
+      &-item {
+        box-sizing: border-box;
+        margin-bottom: 2rem;
+        font-size: $font-size-sm;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+
+        h4 {
+          box-sizing: border-box;
+          padding: 0.5em;
+          font-size: 1rem;
+          font-weight: bold;
+          border-left: solid 5px $warning;
+          background-color: rgba($warning, 0.15);
+          margin: 0 0 1em;
+        }
+      }
+
+      &__case {
+        &-item {
+          margin-bottom: 1rem;
+          @include media-breakpoint-down(md) {
+            display: inline-block;
+            width: 50%;
+            margin: 0 auto 1rem;
+          }
+
+          &:nth-child(3) {
+            @include media-breakpoint-down(md) {
+              display: inline-block;
+              width: 100%;
+              margin: 0 auto 1rem;
+            }
+          }
+
+          img {
+            margin: 0 auto;
+            display: block;
+            width: 100%;
+          }
+
+          p {
+            text-align: center;
+            margin: 0 0 0.5rem;
+            color: $white;
+            background-color: $warning;
+            font-weight: bold;
+          }
+
+          &:first-child {
+            p {
+              background-color: #3b94d8;
+            }
+          }
+
+          &:nth-child(2) {
+            p {
+              background-color: #0669b5;
+            }
+          }
+        }
+      }
+
+      .staff {
+        &__inner {
+          display: flex;
+          justify-content: start;
+          align-items: stretch;
+          flex-wrap: nowrap;
+          padding: 0.75rem 0;
+          border-bottom: solid 1px $light;
+
+          &-thumbnail {
+            min-width: 70px;
+            margin-right: 1rem;
+
+            img {
+              width: 70px;
+            }
+          }
+        }
+      }
+    }
+
+    .small,
+    small {
+      font-size: 13px !important;
+      color: rgba($body-color, 0.8);
+    }
+
+    .review {
+      &__wrap {
+        max-height: 420px;
+        overflow-y: scroll;
+      }
+
+      .fas {
+        color: #f18f01;
+      }
+    }
+  }
+}
